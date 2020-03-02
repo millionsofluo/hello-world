@@ -15,3 +15,5 @@ print("hellow worlw")
 print("git clone")
 
 print("git pull")
+
+print("git checkout")
