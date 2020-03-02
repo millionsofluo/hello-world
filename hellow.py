@@ -13,3 +13,5 @@ import sys
 print("hellow worlw")
 
 print("git clone")
+
+print("git pull")
